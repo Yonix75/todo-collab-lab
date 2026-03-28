@@ -7,3 +7,5 @@ for t in tasks:
     print(t)
     
 add_task("B: buy groceries")
+
+add_task("A: clean room")
