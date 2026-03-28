@@ -26,4 +26,8 @@ def update_first_task(new_task):
     with open("tasks.txt", "w") as f:
         f.writelines(lines)
         
-update_first_task("A: updated first task")        
+update_first_task("A: updated first task")
+
+def count_tasks():
+    with open("tasks.txt", "r") as f:
+        return len(f.readlines())        
