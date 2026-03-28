@@ -13,3 +13,4 @@ add_task("A: clean room")
 remove_last_task()
 add_task("B: replaced last task")
 
+print("Run by A")
