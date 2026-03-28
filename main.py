@@ -20,4 +20,6 @@ print("Total tasks:", count_tasks())
 
 add_task("A iteration task")
 
+add_task("B iteration task")
+
 add_task("A iteration task")
