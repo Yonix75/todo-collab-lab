@@ -5,3 +5,9 @@ B: replaced last task
 A iteration task
 B iteration task
 A iteration task
+Initial task by A
+B: buy groceries
+B: replaced last task
+A iteration task
+B iteration task
+A iteration task
