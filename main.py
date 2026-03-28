@@ -19,3 +19,5 @@ print("Run by B")
 print("Total tasks:", count_tasks())
 
 add_task("A iteration task")
+
+add_task("A iteration task")
