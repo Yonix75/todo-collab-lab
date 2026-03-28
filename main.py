@@ -1,4 +1,4 @@
-from todo import add_task, list_tasks,remove_last_task
+from todo import add_task, list_tasks,remove_last_task,count_tasks
 
 add_task("Initial task by A")
 
@@ -15,3 +15,5 @@ add_task("B: replaced last task")
 
 print("Run by A")
 print("Run by B")
+
+print("Total tasks:", count_tasks())
